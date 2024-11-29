@@ -88,7 +88,7 @@
 .imagem-quadrada {
     width: 100px;        /* Define a largura da imagem */
     height: 100px;       /* Define a altura da imagem */
-    object-fit: cover;   /* Garante que a imagem cubra o tamanho definido, cortando partes se necessário 
+    object-fit: cover;   /* Garante que a imagem cubra o tamanho definido, cortando partes se necessário */
   }
   
   .year-box h2 {
