@@ -67,22 +67,22 @@
   #year2022 {
     background-image: url('2022.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;
-    width: 10%;
-    height: 10px;
+    width: 100px;
+    height: 100px;
 }
 
 #year2023 {
     background-image: url('2023.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;
-    width: 10%;
-    height: 1px;
+    width: 10px;
+    height: 100px;
 }
 
 #year2024 {
     background-image: url('2024.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;
-    width: 10%;
-    height: 10px;
+    width: 100px;
+    height: 100px;
 }
 
 .imagem-quadrada {
